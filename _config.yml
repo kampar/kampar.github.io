@@ -3,7 +3,7 @@
 title:            Ocu Kampar
 locale:           en_US
 #url:              http://localhost:4000
-url:              http://kampar.github.io
+url:              https://kampar.github.io
 
 
 # Jekyll configuration
@@ -29,8 +29,8 @@ kramdown:
 owner:
   name: Muhammad Jazman
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  bio: "Dosen, ayah dari 3 putri, lulusan UI (Sarjana Komputer) dan Master of Information Systems (MInfoSys) dari UOW,NSW,AU."
+  email: jazman@uin-suska.id
   disqus-shortname: 
   twitter: jazma101 #username
   facebook: deactivate.py #username
